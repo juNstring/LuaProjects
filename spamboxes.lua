@@ -1,5 +1,7 @@
 -- game link: https://www.roblox.com/games/6717117731/Subway-Surfers
 
+local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()local b=a.Notify;wait(1)b({Description="made by juN/ felipe rumanov#5735 | Once you execute, you can't stop.",Title="Spam Box Loader",Duration=11})
+
 while wait(1) do
     pcall(function()
         
@@ -24,5 +26,3 @@ for i,v in pairs(Players.LocalPlayer.Backpack:GetChildren()) do
 	end
 end)
 end
-
-local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()local b=a.Notify;wait(1)b({Description="made by juN/ felipe rumanov#5735 | Once you execute, you can't stop.",Title="Spam Box Loader",Duration=11})
