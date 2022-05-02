@@ -1,8 +1,8 @@
 --[[ fixed as 3/27/2022
 created by Xyba and fixed by juN aka felipe rumanov.]]
 
+--[[ Settings and stuff
 --Default Settings-
-
 getgenv().minPlayers = 10
 getgenv().minBuyers = 5
 getgenv().serverHopAfterMinutes = 5
@@ -13,7 +13,7 @@ getgenv().joinMSG = "Hey, make sure to check out my shop! :)"
 getgenv().AutoClaimBooth = true
 
 getgenv().LookForSuggarDad = false
-getgenv().minSuggardad = 100
+getgenv().minSuggardad = 100 --]]
 
 repeat
     wait()
